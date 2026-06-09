@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> 👉 _Stay up-to-date with [PostHog coding conventions](https://posthog.com/docs/contribute/coding-conventions) for a smoother review._
+> 👉 _Stay up-to-date with coding conventions (TODO: ADD LINK) for a smoother review._
 
 ## Problem
 
@@ -17,7 +17,6 @@
 
 <!-- Engineers are responsible for doing the first pass at documenting their features and/or code.  -->
 
-- [ ] I've [added or updated the docs](https://posthog.com/handbook/engineering/writing-docs)
 - [ ] I've reached out for help from the docs team
 - [ ] No docs needed for this change
 
