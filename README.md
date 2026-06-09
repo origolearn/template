@@ -1,6 +1,6 @@
-# PostHog Project Template
+# Origolearn Project Template
 
-A standardized project template for consistent development workflows across all of PostHog's repositories. This template provides a solid foundation with common scripts, configuration files, license, and project structure that can be customized for your specific needs.
+A standardized project template for consistent development workflows across all of origolearn's repositories. This template provides a solid foundation with common scripts, configuration files, license, and project structure that can be customized for your specific needs.
 
 ## Using This Template
 
@@ -9,7 +9,7 @@ A standardized project template for consistent development workflows across all 
 1. **Clone from Template**: Use GitHub's "Use this template" button or clone directly:
 
 ```bash
-git clone https://github.com/PostHog/template.git your-project-name
+git clone https://github.com/origolearn/template.git your-project-name
 cd your-project-name
 ```
 
